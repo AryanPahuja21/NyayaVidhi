@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835679405642",
+    "project_id": "nyayavidhi-sih",
+    "storage_bucket": "nyayavidhi-sih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835679405642:android:0f26a602493a9693af88b3",
+        "android_client_info": {
+          "package_name": "com.example.nyayavidhi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOdYFv3vDLDtubdTfOC3z5wGIO1VqxNG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
